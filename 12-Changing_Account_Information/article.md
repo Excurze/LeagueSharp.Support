@@ -1,7 +1,7 @@
 If you think like your account security might have been compromised or there is any other reason to change your account information, you can change your E-Mail address and the password linked to your account.
 
 In order to access the account settings page, click on the small button with your nickname on it on the top right side of the Site.
- Select "[Account Settings]([https://www.joduska.me/forum/index.php?app=core&module=usercp](https://forum.bgx.gg/settings/))" 
+ Select "Account Settings"
 
 ➊ In order to change your E-Mail address linked to your account, please open a Ticket at our Discord Server.
 
