@@ -1,1 +1,1 @@
-In order to open a ticket please [click here](https://www.joduska.me/forum/index.php?app=tickets&module=tickets&section=post&do=new_ticket). 
+In Order to open a Ticket please join our Discord Server [click here](https://bgx.gg/discord). 
