@@ -1,5 +1,5 @@
-# LeagueSharp.Support
+# BGX.Support
 
-Articles for the LeagueSharp Support page.
+Articles for the LSupport page.
 
-![hooray](https://giphy.com/gifs/foxadhd-north-korea-13joEh7aB34eGI)
+![hooray](https://media.giphy.com/media/13joEh7aB34eGI/giphy.gif)
